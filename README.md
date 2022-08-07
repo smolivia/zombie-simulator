@@ -1,0 +1,3 @@
+Dennis Cosgrove (http://www.cse.wustl.edu/~cosgroved/) is the author of supporting files ArgsProcessor, Timing, and ZombieSimulationFiles as well as select methods indicated by comments in the code.
+
+This program runs files from the provided ZombieSimulationFiles to simulate how infection spreads with zombies and non-zombies intelligently reacting to each others presence. There is also a chance that an infected non-zombie will be consumed and disappear entirely. The files provide the starting coordinates of all zombies and non-zombies. Zombies and non-zombies are both repesented by Entity objects written in a separate java file.
